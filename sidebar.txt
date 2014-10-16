@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atb:home|Door43 (atb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atb|d43-atb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atb/archive/master.zip|d43-atb.zip]]
+
+**Recent Changes**
+{{changes>ns = atb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atb|Ethnologue data]]
+
